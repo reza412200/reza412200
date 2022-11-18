@@ -12,10 +12,9 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/d/17L17yIo7gwy7s_jlWfHn7wltsF-V1gUE/p/16rNlj1M2QKbOixayTRdzP_ceLhmZTd1S/edit](https://sites.google.com/d/17L17yIo7gwy7s_jlWfHn7wltsF-V1gUE/p/16rNlj1M2QKbOixayTRdzP_ceLhmZTd1S/edit)
+- 👨‍💻 All of my projects are available ‌<a href="https://sites.google.com/d/17L17yIo7gwy7s_jlWfHn7wltsF-V1gUE/p/16rNlj1M2QKbOixayTRdzP_ceLhmZTd1S/edit">here </a>
 
-- 📝 I regularly write articles on [https://sites.google.com/d/17L17yIo7gwy7s_jlWfHn7wltsF-V1gUE/p/1qyEPCI9c1KkXOCw6gFXpvk0epFOcJ5un/edit](https://sites.google.com/d/17L17yIo7gwy7s_jlWfHn7wltsF-V1gUE/p/1qyEPCI9c1KkXOCw6gFXpvk0epFOcJ5un/edit)
-
+- 📝 I regularly write articles on <a href="https://sites.google.com/d/17L17yIo7gwy7s_jlWfHn7wltsF-V1gUE/p/1qyEPCI9c1KkXOCw6gFXpvk0epFOcJ5un/edit"> this page 
 - 💬 Ask me about **C**
 
 - 📫 How to reach me **reza412200@gmail.com**
